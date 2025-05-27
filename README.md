@@ -26,6 +26,12 @@ Inspiré des Triomphes du Métal par Arthur Alternatif
     - Il Ne pourra pas modifier le contenue 
 
 
+
+# ⚠️ Notes 
+
+- Ce projet a été réalisé dans le cadre d'un exercice scolaire. La sécurité n'étant pas une priorité dans ce contexte, il est fortement déconseillé d'utiliser ce code en production sans y intégrer des mesures de sécurité appropriées.- 
+
+
 # 🧑‍💻 Contributeurs
 
 Développé par :
