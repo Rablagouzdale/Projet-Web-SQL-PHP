@@ -25,7 +25,8 @@ Créer un profil utilisateurs :
   Il Aura une vue sur le site
   Il Ne pourra pas modifier le contenue 
 
-🧑‍💻 Contributeurs
+
+# 🧑‍💻 Contributeurs
 
 Développé par :
 
